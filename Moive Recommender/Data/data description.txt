@@ -1,1 +1,9 @@
-
+The dataset we will be using is distributed by last.fm in 2005 and can be found online as a compressed
+archive at http://bit.ly/1KiJdOR. Download the archive and you will find several files. The main dataset
+that we will be using is the user artist data.txt file. It has over 140,000 users, 1.5 million unique artists and
+roughly 24 million users’ information about how often they played a given song/artist.
+The dataset also gives the names of each artist by ID in the artist data.txt file. When the data was
+recorded, the names of the artists could be misspelled or non-standard, and this can be detected only later.
+For example, ‘The Smiths,’ ‘Smiths The’ and ‘he smiths’ may appear as distinct artist IDs, but they refer to
+the same artist. So, the dataset also includes artist alias.txt dataset, which maps the artist IDs that are known
+to be misspelled or variants to the canonical ID of the artist.

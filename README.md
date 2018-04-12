@@ -8,6 +8,6 @@ Naive Bayes algorithm
 
 **Task 2:**
 Movie recommendation
--Use non-negative matrix factorization (NMF) as our choice of algorithm to build our recommender system.
--The recommender system relies on how often a song was played rather than the explicit rating provided by users.
--The dataset can be quite large, can cover more users/artists and contains richer information than a rating dataset.
+- Use non-negative matrix factorization (NMF) as our choice of algorithm to build our recommender system.
+- The recommender system relies on how often a song was played rather than the explicit rating provided by users.
+- The dataset can be quite large, can cover more users/artists and contains richer information than a rating dataset.
